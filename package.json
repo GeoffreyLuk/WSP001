@@ -1,0 +1,17 @@
+{
+  "name": "wsp001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "express-dependencies": "^1.2.3",
+    "node-fetch": "^3.3.0",
+    "lodash": "^4.1.1"
+  }
+}
